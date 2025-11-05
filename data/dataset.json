@@ -1,0 +1,211 @@
+[
+  {
+    "session_id": 1,
+    "transcript": "User: Hey, you should try this new FPS game, it’s super fun!\nFriend: I'm not really into shooters.\nUser: I get that, but this one is more about teamwork than just shooting.\nFriend: Huh, that sounds better.\nUser: Yeah, we can play together and I’ll show you the ropes!",
+    "rubrics": {
+      "overall": 72,
+      "clarity": 0.68,
+      "active_listening": 0.59,
+      "call_to_action": 0.71,
+      "friendliness": 0.82
+    }
+  },
+  {
+    "session_id": 2,
+    "transcript": "User: You might enjoy this FPS game — it’s fast-paced and creative.\nFriend: I don’t like violent games.\nUser: Totally fair, but it’s actually more strategic, you focus on objectives.\nFriend: So it’s more tactical than brutal?\nUser: Exactly! Want to give it a shot later today?",
+    "rubrics": {
+      "overall": 76,
+      "clarity": 0.72,
+      "active_listening": 0.63,
+      "call_to_action": 0.77,
+      "friendliness": 0.85
+    }
+  },
+  {
+    "session_id": 3,
+    "transcript": "User: Have you seen how this FPS game rewards teamwork?\nFriend: Not really, I thought it’s just shooting.\nUser: Nope, you win only by cooperating — like covering teammates.\nFriend: Oh that’s nice.\nUser: We could team up and try a round tonight!",
+    "rubrics": {
+      "overall": 81,
+      "clarity": 0.75,
+      "active_listening": 0.68,
+      "call_to_action": 0.83,
+      "friendliness": 0.88
+    }
+  },
+  {
+    "session_id": 4,
+    "transcript": "User: I played that FPS again, and it keeps getting better!\nFriend: You really like it huh?\nUser: Yeah, because it’s not toxic — people actually help each other.\nFriend: That’s rare!\nUser: You’d fit right in, wanna squad up sometime?",
+    "rubrics": {
+      "overall": 84,
+      "clarity": 0.79,
+      "active_listening": 0.74,
+      "call_to_action": 0.85,
+      "friendliness": 0.89
+    }
+  },
+  {
+    "session_id": 5,
+    "transcript": "User: You ever tried playing an FPS where teamwork wins matches?\nFriend: I thought those were all chaotic.\nUser: This one’s different — you win by strategy, not reflexes.\nFriend: Sounds intriguing.\nUser: Let’s play one round and you’ll see what I mean.",
+    "rubrics": {
+      "overall": 79,
+      "clarity": 0.73,
+      "active_listening": 0.66,
+      "call_to_action": 0.81,
+      "friendliness": 0.84
+    }
+  },
+  {
+    "session_id": 6,
+    "transcript": "User: Hey, I know you like competitive stuff — have you tried ValorFront?\nFriend: Never heard of it.\nUser: It’s an FPS but focused on team synergy.\nFriend: Hmm, maybe too intense for me.\nUser: Not really, there’s even a casual mode where we can just have fun!",
+    "rubrics": {
+      "overall": 70,
+      "clarity": 0.67,
+      "active_listening": 0.56,
+      "call_to_action": 0.68,
+      "friendliness": 0.79
+    }
+  },
+  {
+    "session_id": 7,
+    "transcript": "User: I know you prefer co-op games, but this FPS actually rewards that style.\nFriend: Really?\nUser: Yeah, you win by supporting your squad, not just kills.\nFriend: That’s refreshing!\nUser: Let’s jump in this weekend and test that out.",
+    "rubrics": {
+      "overall": 82,
+      "clarity": 0.76,
+      "active_listening": 0.71,
+      "call_to_action": 0.84,
+      "friendliness": 0.87
+    }
+  },
+  {
+    "session_id": 8,
+    "transcript": "User: You said you like fast learning curves — this FPS gives great feedback.\nFriend: I usually get lost in those.\nUser: There’s a tutorial and bots mode to practice first.\nFriend: Oh, that helps.\nUser: Let’s hop in for 15 minutes and see what you think.",
+    "rubrics": {
+      "overall": 75,
+      "clarity": 0.71,
+      "active_listening": 0.65,
+      "call_to_action": 0.78,
+      "friendliness": 0.82
+    }
+  },
+  {
+    "session_id": 9,
+    "transcript": "User: You’d love this FPS — it has creative maps and no toxicity.\nFriend: I’ve had bad experiences with shooters.\nUser: Yeah, I get that. This one actually rewards positive teamwork.\nFriend: Hmm, interesting.\nUser: Want me to show you a short clip of gameplay?",
+    "rubrics": {
+      "overall": 78,
+      "clarity": 0.74,
+      "active_listening": 0.70,
+      "call_to_action": 0.80,
+      "friendliness": 0.86
+    }
+  },
+  {
+    "session_id": 10,
+    "transcript": "User: You mentioned you like problem-solving — this FPS feels like puzzles with guns.\nFriend: That’s an odd mix.\nUser: I know, but each map is a tactical challenge.\nFriend: So it’s about planning?\nUser: Exactly. We can try it together, no pressure!",
+    "rubrics": {
+      "overall": 73,
+      "clarity": 0.70,
+      "active_listening": 0.62,
+      "call_to_action": 0.74,
+      "friendliness": 0.83
+    }
+  },
+  {
+    "session_id": 11,
+    "transcript": "User: I’ve been playing this FPS and thought of you — it’s story-driven too.\nFriend: A shooter with story?\nUser: Yeah, choices even change outcomes.\nFriend: Oh wow.\nUser: You’d enjoy it. We can co-op the first mission tonight.",
+    "rubrics": {
+      "overall": 85,
+      "clarity": 0.81,
+      "active_listening": 0.77,
+      "call_to_action": 0.88,
+      "friendliness": 0.91
+    }
+  },
+  {
+    "session_id": 12,
+    "transcript": "User: You always say you like challenges — this FPS ranks your communication.\nFriend: Really?\nUser: Yep, it measures how teams coordinate under stress.\nFriend: That’s unique.\nUser: Want to see how we’d score as a duo?",
+    "rubrics": {
+      "overall": 80,
+      "clarity": 0.77,
+      "active_listening": 0.70,
+      "call_to_action": 0.83,
+      "friendliness": 0.85
+    }
+  },
+  {
+    "session_id": 13,
+    "transcript": "User: You said you liked Overwatch once, right?\nFriend: Yeah, that was fun.\nUser: This one’s similar, but with better teamwork mechanics.\nFriend: Oh cool!\nUser: Let’s try it over the weekend, just one match.",
+    "rubrics": {
+      "overall": 77,
+      "clarity": 0.73,
+      "active_listening": 0.65,
+      "call_to_action": 0.79,
+      "friendliness": 0.83
+    }
+  },
+  {
+    "session_id": 14,
+    "transcript": "User: I get that you don’t like FPS stress — this one’s low-pressure.\nFriend: How so?\nUser: You can play cooperative missions only.\nFriend: That’s nice.\nUser: Wanna try one of those chill missions tonight?",
+    "rubrics": {
+      "overall": 74,
+      "clarity": 0.68,
+      "active_listening": 0.66,
+      "call_to_action": 0.75,
+      "friendliness": 0.88
+    }
+  },
+  {
+    "session_id": 15,
+    "transcript": "User: Hey, there’s a new FPS with great character design.\nFriend: I’m not sure that’s my thing.\nUser: You’d be surprised — it’s all about teamwork and creativity.\nFriend: Okay, maybe.\nUser: Let’s try one match and see if it clicks!",
+    "rubrics": {
+      "overall": 71,
+      "clarity": 0.65,
+      "active_listening": 0.60,
+      "call_to_action": 0.70,
+      "friendliness": 0.80
+    }
+  },
+  {
+    "session_id": 16,
+    "transcript": "User: You like games where you improve every round, right?\nFriend: Yeah, progression is fun.\nUser: This FPS has skill trees and coaching tips built in.\nFriend: That’s unusual.\nUser: We could test how it adapts to us!",
+    "rubrics": {
+      "overall": 79,
+      "clarity": 0.75,
+      "active_listening": 0.67,
+      "call_to_action": 0.81,
+      "friendliness": 0.86
+    }
+  },
+  {
+    "session_id": 17,
+    "transcript": "User: Remember how we used to play co-op shooters?\nFriend: Yeah, back in college.\nUser: This one brings that same energy but smoother.\nFriend: Nostalgia mode on!\nUser: Let’s relive that — one round after dinner?",
+    "rubrics": {
+      "overall": 83,
+      "clarity": 0.78,
+      "active_listening": 0.73,
+      "call_to_action": 0.86,
+      "friendliness": 0.88
+    }
+  },
+  {
+    "session_id": 18,
+    "transcript": "User: You always say you like quick matches — this FPS has 5-minute rounds.\nFriend: That’s short!\nUser: Yeah, perfect for quick breaks.\nFriend: Hmm, that’s tempting.\nUser: Want to play a few rounds tonight?",
+    "rubrics": {
+      "overall": 82,
+      "clarity": 0.77,
+      "active_listening": 0.69,
+      "call_to_action": 0.84,
+      "friendliness": 0.87
+    }
+  },
+  {
+    "session_id": 19,
+    "transcript": "User: This FPS has an amazing learning system — it adapts to your play style.\nFriend: Like AI coaches?\nUser: Exactly, it gives feedback after each round.\nFriend: That’s brilliant.\nUser: Let’s try it and see how it rates us!",
+    "rubrics": {
+      "overall": 86,
+      "clarity": 0.82,
+      "active_listening": 0.76,
+      "call_to_action": 0.89,
+      "friendliness": 0.90
+    }
+  }
+]
