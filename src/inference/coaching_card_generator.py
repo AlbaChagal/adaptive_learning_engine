@@ -44,7 +44,7 @@ class CoachingCardGenerator(object):
             f"Focus on {focus}: current rubric {cls.pct(rubric.get(focus, 0))}. " \
             f"Signals — CTA={cls.pct(features.get('cta_explicitness', 0))}, " \
             f"Empathy={cls.pct(features.get('empathy_markers', 0))}, " \
-            f"Questions={cls.pct(features.get('question_ratio_llm', 0))}."
+            f"Questions={cls.pct(features.get('question_ratio', 0))}."
         exercises: List[str] = [
             "Mirror one concern, then ask an open question.",
             "End with a time-bound, single-step CTA.",
