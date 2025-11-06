@@ -155,7 +155,7 @@ class AdaptiveLearningEngine(object):
     def get_feature_report(self, rows: List[ContextRowType]) -> FeatureReport:
         """
         Create a feature report
-        :param rows: creates a report on the features
+        :param rows: The data rows containing baseline_features, LLM_features and y_overall_labels
         :return: The feature report
         """
         # build matrices for evaluation targets (use steps sess_ind->sess_ind+1)
